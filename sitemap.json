@@ -1,0 +1,7 @@
+{
+  "desc": "关于本文件的更多信息，请参考文档 https://jjyh.dev.0797i.cn/miniprogram/dev/framework/sitemap.html",
+  "rules": [{
+  "action": "allow",
+  "page": "*"
+  }]
+}
